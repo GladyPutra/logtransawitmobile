@@ -1,0 +1,270 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4c28146dc3ebbcf958c4e5b8077630ad\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c2b2cdc4b451cf90abff82ffe16abafb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\19e9c4ffe30f0c8637c36b649c2bbb31\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ad9671a0a3a39530e7c01d709fa09a8e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\f9cb85264d80bf71fcbb098f245bb518\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\8e4ff7b76ccd50c3e3a9d79fd078e5e1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b1deb029393f668dcec4af903d4a9e66\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\13fbc337b2c561870266ffb5e7048bbd\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\68a5d30a2684e2d9641b959fabd21992\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\2f8a4807ea98187d1d5ed1268eeb38fb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c7802dd8db91cf0b77189a49053d8c0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\0f5cd572f9a27e4d33e1082b58876b3a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a7674521dd0a0add810de0f4b127a08e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ced52e35f0e8a3cd5556226c082eb11b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\da9a888ae59e57f9825cc0462ab6f79e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d05d0ccc8a4c9f6d9cbaa8139635fabf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2ea6c82b69d36573b521f1059c5a2b16\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\771b890659b20310fb1975c792fdd376\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1a337ea1f2bd79f73505b3e336a47f95\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\dc6b7a3a570172ffac1174b23324fde8\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c4b3c4fd6473969d2a63465f13fc5273\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml
+		INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\19e9c4ffe30f0c8637c36b649c2bbb31\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\19e9c4ffe30f0c8637c36b649c2bbb31\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:11:22-64
+application
+ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:13:5-49:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4c28146dc3ebbcf958c4e5b8077630ad\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4c28146dc3ebbcf958c4e5b8077630ad\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c2b2cdc4b451cf90abff82ffe16abafb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c2b2cdc4b451cf90abff82ffe16abafb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\19e9c4ffe30f0c8637c36b649c2bbb31\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\19e9c4ffe30f0c8637c36b649c2bbb31\AndroidManifest.xml:30:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ad9671a0a3a39530e7c01d709fa09a8e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ad9671a0a3a39530e7c01d709fa09a8e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\f9cb85264d80bf71fcbb098f245bb518\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\f9cb85264d80bf71fcbb098f245bb518\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\8e4ff7b76ccd50c3e3a9d79fd078e5e1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\8e4ff7b76ccd50c3e3a9d79fd078e5e1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b1deb029393f668dcec4af903d4a9e66\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b1deb029393f668dcec4af903d4a9e66\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\13fbc337b2c561870266ffb5e7048bbd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\13fbc337b2c561870266ffb5e7048bbd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\68a5d30a2684e2d9641b959fabd21992\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\68a5d30a2684e2d9641b959fabd21992\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\2f8a4807ea98187d1d5ed1268eeb38fb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\2f8a4807ea98187d1d5ed1268eeb38fb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c7802dd8db91cf0b77189a49053d8c0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c7802dd8db91cf0b77189a49053d8c0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\0f5cd572f9a27e4d33e1082b58876b3a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\0f5cd572f9a27e4d33e1082b58876b3a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a7674521dd0a0add810de0f4b127a08e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a7674521dd0a0add810de0f4b127a08e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ced52e35f0e8a3cd5556226c082eb11b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ced52e35f0e8a3cd5556226c082eb11b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\da9a888ae59e57f9825cc0462ab6f79e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\da9a888ae59e57f9825cc0462ab6f79e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d05d0ccc8a4c9f6d9cbaa8139635fabf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d05d0ccc8a4c9f6d9cbaa8139635fabf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2ea6c82b69d36573b521f1059c5a2b16\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2ea6c82b69d36573b521f1059c5a2b16\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\771b890659b20310fb1975c792fdd376\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\771b890659b20310fb1975c792fdd376\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1a337ea1f2bd79f73505b3e336a47f95\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1a337ea1f2bd79f73505b3e336a47f95\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\dc6b7a3a570172ffac1174b23324fde8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\dc6b7a3a570172ffac1174b23324fde8\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c4b3c4fd6473969d2a63465f13fc5273\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c4b3c4fd6473969d2a63465f13fc5273\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:15:9-39
+	android:allowBackup
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:19:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:29:9-31:55
+	android:value
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:31:13-52
+	android:name
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:30:13-58
+activity#com.example.gladyputra.logtransawit.MainActivity
+ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:35:13-48
+	android:name
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:34:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.example.gladyputra.logtransawit.MapsActivity
+ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:42:9-50
+	android:name
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:42:19-47
+activity#com.example.gladyputra.logtransawit.OptionActivity
+ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:43:9-52
+	android:name
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:43:19-49
+activity#com.example.gladyputra.logtransawit.ProfilActivity
+ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:44:9-52
+	android:name
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:44:19-49
+activity#com.example.gladyputra.logtransawit.MapsActivity2
+ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:45:9-47:60
+	android:label
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:47:13-57
+	android:name
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:46:13-42
+activity#com.example.gladyputra.logtransawit.InputBeratActivity
+ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:48:9-65
+	android:name
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml:48:19-53
+uses-sdk
+INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml
+INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4c28146dc3ebbcf958c4e5b8077630ad\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4c28146dc3ebbcf958c4e5b8077630ad\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c2b2cdc4b451cf90abff82ffe16abafb\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c2b2cdc4b451cf90abff82ffe16abafb\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\19e9c4ffe30f0c8637c36b649c2bbb31\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\19e9c4ffe30f0c8637c36b649c2bbb31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ad9671a0a3a39530e7c01d709fa09a8e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ad9671a0a3a39530e7c01d709fa09a8e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\f9cb85264d80bf71fcbb098f245bb518\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\f9cb85264d80bf71fcbb098f245bb518\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\8e4ff7b76ccd50c3e3a9d79fd078e5e1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\8e4ff7b76ccd50c3e3a9d79fd078e5e1\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b1deb029393f668dcec4af903d4a9e66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b1deb029393f668dcec4af903d4a9e66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\13fbc337b2c561870266ffb5e7048bbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\13fbc337b2c561870266ffb5e7048bbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\68a5d30a2684e2d9641b959fabd21992\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\68a5d30a2684e2d9641b959fabd21992\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\2f8a4807ea98187d1d5ed1268eeb38fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\2f8a4807ea98187d1d5ed1268eeb38fb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c7802dd8db91cf0b77189a49053d8c0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c7802dd8db91cf0b77189a49053d8c0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\0f5cd572f9a27e4d33e1082b58876b3a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\0f5cd572f9a27e4d33e1082b58876b3a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a7674521dd0a0add810de0f4b127a08e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a7674521dd0a0add810de0f4b127a08e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ced52e35f0e8a3cd5556226c082eb11b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ced52e35f0e8a3cd5556226c082eb11b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\da9a888ae59e57f9825cc0462ab6f79e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\da9a888ae59e57f9825cc0462ab6f79e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d05d0ccc8a4c9f6d9cbaa8139635fabf\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d05d0ccc8a4c9f6d9cbaa8139635fabf\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2ea6c82b69d36573b521f1059c5a2b16\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2ea6c82b69d36573b521f1059c5a2b16\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\771b890659b20310fb1975c792fdd376\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\771b890659b20310fb1975c792fdd376\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1a337ea1f2bd79f73505b3e336a47f95\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1a337ea1f2bd79f73505b3e336a47f95\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\dc6b7a3a570172ffac1174b23324fde8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\dc6b7a3a570172ffac1174b23324fde8\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c4b3c4fd6473969d2a63465f13fc5273\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c4b3c4fd6473969d2a63465f13fc5273\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml
+INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4c28146dc3ebbcf958c4e5b8077630ad\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml
+		INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml
+		ADDED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml
+		INJECTED from E:\LogTranSawit\New folder\LTS\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4c28146dc3ebbcf958c4e5b8077630ad\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c2b2cdc4b451cf90abff82ffe16abafb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c2b2cdc4b451cf90abff82ffe16abafb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b1deb029393f668dcec4af903d4a9e66\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b1deb029393f668dcec4af903d4a9e66\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\13fbc337b2c561870266ffb5e7048bbd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\13fbc337b2c561870266ffb5e7048bbd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\68a5d30a2684e2d9641b959fabd21992\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\68a5d30a2684e2d9641b959fabd21992\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\2f8a4807ea98187d1d5ed1268eeb38fb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\2f8a4807ea98187d1d5ed1268eeb38fb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\da9a888ae59e57f9825cc0462ab6f79e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\da9a888ae59e57f9825cc0462ab6f79e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d05d0ccc8a4c9f6d9cbaa8139635fabf\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d05d0ccc8a4c9f6d9cbaa8139635fabf\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2ea6c82b69d36573b521f1059c5a2b16\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2ea6c82b69d36573b521f1059c5a2b16\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\771b890659b20310fb1975c792fdd376\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\771b890659b20310fb1975c792fdd376\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1a337ea1f2bd79f73505b3e336a47f95\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1a337ea1f2bd79f73505b3e336a47f95\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\dc6b7a3a570172ffac1174b23324fde8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\dc6b7a3a570172ffac1174b23324fde8\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4c28146dc3ebbcf958c4e5b8077630ad\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4c28146dc3ebbcf958c4e5b8077630ad\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\19e9c4ffe30f0c8637c36b649c2bbb31\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\19e9c4ffe30f0c8637c36b649c2bbb31\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\19e9c4ffe30f0c8637c36b649c2bbb31\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\19e9c4ffe30f0c8637c36b649c2bbb31\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\19e9c4ffe30f0c8637c36b649c2bbb31\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c7802dd8db91cf0b77189a49053d8c0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c7802dd8db91cf0b77189a49053d8c0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c7802dd8db91cf0b77189a49053d8c0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c7802dd8db91cf0b77189a49053d8c0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ced52e35f0e8a3cd5556226c082eb11b\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ced52e35f0e8a3cd5556226c082eb11b\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ced52e35f0e8a3cd5556226c082eb11b\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c4b3c4fd6473969d2a63465f13fc5273\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c4b3c4fd6473969d2a63465f13fc5273\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Glady Putra\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c4b3c4fd6473969d2a63465f13fc5273\AndroidManifest.xml:26:13-58
